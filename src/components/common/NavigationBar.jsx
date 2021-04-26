@@ -27,7 +27,7 @@ const NavigationBar = () => {
                             className="px-5"
                             as={Link}
                             to="/portfolio">
-                            Portfolio
+                            Projects
                         </Nav.Link>
                         <Nav.Link 
                             className="px-5"
